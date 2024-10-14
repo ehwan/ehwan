@@ -1,5 +1,4 @@
-## Rustacean 🦀
-- 👯 I’m looking to collaborate on ... 🦀
+## RUST ENTHUSIAST 🦀
 
 <!--
 **ehwan/ehwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
